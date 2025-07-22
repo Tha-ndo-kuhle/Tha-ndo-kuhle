@@ -28,9 +28,23 @@
 
 ## 📂 Featured Projects
 
-- 🔐 **Secure Login System** – Built with Python and MySQL for safe user authentication *(coming soon)*  
-- 🧠 **Mental Health Chatbot** – A simple bot promoting wellness through interactive Q&A *(coming soon)*  
-- 🌌 **Astronomy Data Visualiser** – Tool for visualising star data using Python & Pandas *(planned)*  
+🏨 **Hotel Management System**  
+A C#/Visual Studio-based application to manage guest check-ins, check-outs, room availability, and inventory control.  
+🔧 Tech stack: C#, Windows Forms, SQL Server, GitHub  
+📌 Focus areas: validation logic, database integration, UI design  
+🔗 [View Repository](https://github.com/Tha-ndo-kuhle/hotel-management-system) *(update once uploaded)*
+
+🌆 **City Gems Explorer System** *(In Progress)*  
+A tourism-focused web-based system that highlights local attractions, restaurants, and hidden gems in the city. Designed to assist locals and tourists alike.  
+🔧 Tech stack: HTML, CSS, JavaScript, SQL, GitHub (coming soon)  
+🤝 Collaborative project with a peer — will be hosted on GitHub for version control and teamwork  
+📌 Focus areas: UI/UX, search functionality, local recommendations  
+🔗 Repository coming soon
+
+🌌 **Astronomy Data Visualiser** *(Planned)*  
+A tool for exploring and visualising large-scale space datasets from telescopes and observatories.  
+🔧 Tech stack: Python, Pandas, Matplotlib  
+📌 Inspired by interest in astroinformatics and data science
 
 > *More projects coming soon!*
 
