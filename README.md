@@ -1,4 +1,4 @@
-<!-- Typing animation -->
+<!-- Typing animation with pink accent -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Thandokuhle+Mdlalose;IT+Student+%7C+Software+Dev+%7C+Cybersecurity+%7C+Big+Data;Exploring+Astroinformatics+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
@@ -11,19 +11,6 @@
 💡 Passionate about software development, cybersecurity, and big data  
 🔭 Exploring the intersection of astronomy & data science (Astroinformatics)  
 💬 I love solving problems, writing clean code, and building meaningful tools  
-
----
-
-## 📬 Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/thandokuhle-m-4773251b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kuhlem80@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ---
 
@@ -41,47 +28,56 @@
 
 ---
 
+## 📬 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/thandokuhle-m-4773251b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kuhlem80@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
 ## 📂 Featured Projects
 
 🏨 **Hotel Management System**  
 A C#/Visual Studio-based application to manage guest check-ins, check-outs, room availability, and inventory control.  
 🔧 Tech stack: C#, Windows Forms, SQL Server, GitHub  
 📌 Focus areas: validation logic, database integration, UI design  
-🔗 [View Repository](https://github.com/Tha-ndo-kuhle/hotel-management-system) *(update once uploaded)*
-
+🔗 [View Repository](https://github.com/Tha-ndo-kuhle/hotel-management-system) *(once uploaded)*
 
 🌆 **City Gems Explorer System** *(In Progress)*  
-A tourism-focused web-based system that highlights local attractions, restaurants, and hidden gems in the city. Designed to assist locals and tourists alike.  
-🔧 Tech stack: HTML, CSS, JavaScript, SQL, GitHub (coming soon)  
-🤝 Collaborative project with a peer — will be hosted on GitHub for version control and teamwork  
-📌 Focus areas: UI/UX, search functionality, local recommendations  
-🔗 Repository coming soon
-
+A tourism-focused web-based system that highlights local attractions and hidden gems in the city.  
+🔧 Tech stack: HTML, CSS, JavaScript, SQL  
+🤝 Collaborative project with a peer — will be hosted on GitHub soon  
+📌 Focus areas: UI/UX, search functionality, location-based features  
 
 🌌 **Astronomy Data Visualiser** *(Planned)*  
-A tool for exploring and visualising large-scale space datasets from telescopes and observatories.  
+A tool for exploring and visualising star datasets from observatories.  
 🔧 Tech stack: Python, Pandas, Matplotlib  
 📌 Inspired by interest in astroinformatics and data science
-
-> *More projects coming soon!*
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tha-ndo-kuhle&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tha-ndo-kuhle&layout=compact&theme=rose_pine&hide_border=true" />
-</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tha-ndo-kuhle&theme=dracula&margin-w=15&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tha-ndo-kuhle&theme=radical&margin-w=15&row=2&column=3" />
 </p>
 
 ---
 
-*✨ Always curious. Always building. Always growing.*
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tha-ndo-kuhle&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tha-ndo-kuhle&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+✨ *Always curious. Always building. Always growing.*
+
