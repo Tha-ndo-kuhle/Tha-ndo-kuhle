@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Thandokuhle+Mdlalose;IT+Student+%7C+Software+Dev+%7C+Cybersecurity+%7C+Big+Data;Exploring+Astroinformatics+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Thandokuhle+Mdlalose;IT+Student+%7C+Software+Dev+%7C+Cybersecurity+%7C+Big+Data;Exploring+Astroinformatics+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 ---
@@ -14,14 +14,29 @@
 
 ---
 
+## 📬 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/thandokuhle-m-4773251b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kuhlem80@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
 ## 🧰 Tech & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
@@ -34,12 +49,14 @@ A C#/Visual Studio-based application to manage guest check-ins, check-outs, room
 📌 Focus areas: validation logic, database integration, UI design  
 🔗 [View Repository](https://github.com/Tha-ndo-kuhle/hotel-management-system) *(update once uploaded)*
 
+
 🌆 **City Gems Explorer System** *(In Progress)*  
 A tourism-focused web-based system that highlights local attractions, restaurants, and hidden gems in the city. Designed to assist locals and tourists alike.  
 🔧 Tech stack: HTML, CSS, JavaScript, SQL, GitHub (coming soon)  
 🤝 Collaborative project with a peer — will be hosted on GitHub for version control and teamwork  
 📌 Focus areas: UI/UX, search functionality, local recommendations  
 🔗 Repository coming soon
+
 
 🌌 **Astronomy Data Visualiser** *(Planned)*  
 A tool for exploring and visualising large-scale space datasets from telescopes and observatories.  
@@ -53,18 +70,17 @@ A tool for exploring and visualising large-scale space datasets from telescopes 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tha-ndo-kuhle&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tha-ndo-kuhle&layout=compact&theme=gruvbox&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tha-ndo-kuhle&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tha-ndo-kuhle&layout=compact&theme=rose_pine&hide_border=true" />
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+## 🏆 GitHub Trophies
 
-📫 Email: kuhlem80@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/thandokuhle-m-4773251b3)  
-💻 [GitHub](https://github.com/Tha-ndo-kuhle)  
-🌍 Languages: English | isiZulu | Afrikaans
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tha-ndo-kuhle&theme=dracula&margin-w=15&row=2&column=3" />
+</p>
 
 ---
 
