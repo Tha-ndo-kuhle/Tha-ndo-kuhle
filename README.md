@@ -47,7 +47,7 @@
 A C#/Visual Studio-based application to manage guest check-ins, check-outs, room availability, and inventory control.  
 🔧 Tech stack: C#, Windows Forms, SQL Server, GitHub  
 📌 Focus areas: validation logic, database integration, UI design  
-🔗 [View Repository](https://github.com/Hotel-Management-System-Group-22/CMPG223_Group22.git) *(once uploaded)*
+🔗 [View Repository](https://github.com/Hotel-Management-System-Group-22/CMPG223_Group22.git)
 
 🌆 **City Gems Explorer System** *(In Progress)*  
 A tourism-focused web-based system that highlights local attractions and hidden gems in the city.  
